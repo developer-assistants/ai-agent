@@ -97,7 +97,7 @@ class ContractAgent(BaseAgent):
                         {
                             "severity": severity,
                             "title": title,
-                            "detail": f"Matched: \"{excerpt}\" — {advice}",
+                            "detail": f"Matched: \"{excerpt}\" ({advice})",
                             "advice": advice,
                         }
                     )
