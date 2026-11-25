@@ -1,0 +1,29 @@
+# AI Agent Hub
+
+> Open-source platform of 12 multi-step AI agents for real work: SEO, coding, sales, research, email, data analysis, invoices, contracts, competitor monitoring, customer support, browser extraction, and GitHub audits.
+
+- Repository: https://github.com/developer-assistants/ai-agent
+- Live Hub: https://developer-assistants.github.io/ai-agent/
+- License: MIT
+- Runtime: Python 3.10+ (zero mandatory dependencies) or Docker Compose
+
+## Core guides
+- [AI Agent Examples](https://developer-assistants.github.io/ai-agent/examples/): All 12 runnable agents with CLI commands
+- [AI Agent Builder](https://developer-assistants.github.io/ai-agent/builder/): Workflow YAML and cron builder
+- [AI Agent Development](https://developer-assistants.github.io/ai-agent/development/): Multi-step architecture, tool tracing, and verification
+- [Open Source AI Agents](https://developer-assistants.github.io/ai-agent/open-source/): Self-hosted Python and Docker setup
+- [How to Build an AI Agent](https://developer-assistants.github.io/ai-agent/tutorials/): Step-by-step Python subclassing tutorial
+
+## Agent pages
+- [AI SEO agent for technical audits](https://developer-assistants.github.io/ai-agent/agents/seo/): Audit HTML pages and live URLs for title tags, meta descriptions, H1 structure, canonical links, image alt text, and JSON-LD schema.
+- [AI code agent for automated file review](https://developer-assistants.github.io/ai-agent/agents/coding/): Inspect Python and TypeScript source files for hardcoded secrets, dynamic eval calls, bare exceptions, and maintainability issues.
+- [AI sales agent for lead qualification](https://developer-assistants.github.io/ai-agent/agents/sales/): Score target accounts against your ideal customer profile and prepare grounded outreach messages with traceable steps.
+- [AI research agent with source citations](https://developer-assistants.github.io/ai-agent/agents/research/): Break a topic into sub-questions, fetch supplied URLs, and synthesize a structured report with local or OpenAI-compatible models.
+- [AI email agent for inbox triage](https://developer-assistants.github.io/ai-agent/agents/email/): Classify email threads into urgent incidents, action items, and newsletters while keeping sensitive inbox data on your own machine.
+- [AI browser agent for structured extraction](https://developer-assistants.github.io/ai-agent/agents/browser/): Extract HTML tables, links, headings, and Schema.org JSON-LD objects from public web pages into clean JSON.
+- [AI data analysis agent for spreadsheets](https://developer-assistants.github.io/ai-agent/agents/data-analysis/): Profile CSV files, calculate sum, mean, median, and standard deviation per column, and detect statistical z-score anomalies.
+- [AI document agent for invoices and receipts](https://developer-assistants.github.io/ai-agent/agents/document/): Extract invoice numbers, dates, line items, and totals from text documents and verify subtotal plus tax arithmetic automatically.
+- [AI contract agent for clause risk checks](https://developer-assistants.github.io/ai-agent/agents/contract/): Scan vendor contracts and MSAs for automatic renewals, unlimited liability, unilateral fee hikes, and broad IP assignments.
+- [AI competitor agent for page monitoring](https://developer-assistants.github.io/ai-agent/agents/competitor/): Store baseline snapshots in SQLite memory and detect added or removed pricing lines and messaging updates over time.
+- [AI customer support agent with KB citations](https://developer-assistants.github.io/ai-agent/agents/support/): Search local documentation articles, compose grounded customer replies with source IDs, and flag low-confidence tickets for escalation.
+- [AI GitHub agent for repository audits](https://developer-assistants.github.io/ai-agent/agents/github/): Inspect local Git repositories for README coverage, license files, automated tests, Docker configuration, and GitHub Actions CI.

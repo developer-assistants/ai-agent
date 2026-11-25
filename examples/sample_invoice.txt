@@ -1,0 +1,11 @@
+Invoice #INV-2026-0418
+Date: 2026-11-12
+Billing Contact: billing@northstar-ops.example
+
+Cloud Infrastructure Hosting  $1,200.00
+Managed Backup Storage        $240.00
+Priority Support Retainer     $360.00
+
+Subtotal: $1,800.00
+Tax: $180.00
+Total Due: $1,980.00
